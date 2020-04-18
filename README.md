@@ -10,3 +10,5 @@ Convolutional Neural Networks in TensorFlow
 Natural Language Processing in TensorFlow
 
 Sequences, Time Series and Prediction
+
+Certificate:https://www.coursera.org/account/accomplishments/specialization/certificate/KJV8VR9N5NYJ 
